@@ -1,6 +1,7 @@
 A collection of MPI examples written in C programming language
 
-   - Requirements: OpenMPI library, headers and tools (mpicc and mprun) that can be download from http://www.open-mpi.org/ or from the official repositories on Unix Systems.
+   - Requirements: OpenMPI library, headers and tools (mpicc and mprun) that can be downloaded 
+     from http://www.open-mpi.org/ or from the official repositories on Unix Systems.
 
    - Build: mpicc <compiler options and parameters>
 
