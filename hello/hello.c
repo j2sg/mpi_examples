@@ -1,6 +1,11 @@
 #include <stdio.h>
 #include <mpi.h>
 
+/*
+ *   Build: mpicc -o hello hello.c
+ *   Run:   mpirun -np <Number of processors> hello
+ */
+
 int main(int argc, char *argv[])
 {
    int idp; // Process ID
