@@ -1,6 +1,10 @@
-A collection of MPI examples written in C programming language
+MPI_Examples - Copyright (c) 2014 Juan Jose Salazar Garcia - jjslzgc@gmail.com
+
+   - Description: A collection of MPI examples written in C programming language
 
    - Requirements: OpenMPI library, headers and tools (mpicc and mprun) that can be downloaded from http://www.open-mpi.org/ or from the official repositories on Unix Systems.
+
+   - Licence: MPI_Examples is licensed under the GNU General Public License version 3, you should read LICENSE file to get more details about this.
 
    - Build: mpicc <compiler options and parameters>
 
